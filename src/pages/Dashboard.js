@@ -1,4 +1,5 @@
 import "@progress/kendo-theme-material/dist/all.css";
+import { TileLayout } from "@progress/kendo-react-layout";
 import {useState, React} from 'react'
 import './Dashboard.css'
 
