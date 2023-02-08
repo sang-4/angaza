@@ -1,4 +1,87 @@
-.App {
+/* .Dashboard {
     max-width: 70rem;
     margin: 2rem auto;
   }
+
+  .activeUsers
+  .pendingAppointments{
+    height: 100%;
+  }
+
+  .activeUsers
+  .activeUsersContainer
+  .followUpsBlock
+  .followUpsContainer
+  .pendingAppointments
+  .pendingAppointmentsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .followUpsContainer
+  .activeUsersContainer
+  .pendingAppointmentsContainer{
+    padding: 1rem;
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .followUpsContainer{
+    border: 1px solid #7c3aed;
+    background-color: #ede9fe;
+    color: #7c3aed;
+  }
+  
+
+  .activeUsersContainer{
+    border: 1px solid #2563eb;
+    background-color: #dbeafe;
+    color: #2563eb;
+  }
+
+  .pendingAppointmentsContainer{
+    color: #b45309;
+    border: 1px solid #b45309;
+    background-color: #fef3c7;
+  }
+
+  .activeUsersNum
+  .followUpcount
+  .pendingAppointmentsNum{
+    font-size: 3rem;
+    font-weight: 600;
+  }
+
+  .followUpsBlock{
+    flex-direction: column;
+  }
+
+  .clients{
+    margin-bottom: 1rem;
+    font-weight: 500;
+    display: block;
+  }
+
+  .followUpGrid{
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 2rem;
+    padding: 0;
+  }
+
+  .tileLayout{
+    width: 100%;
+  }
+
+
+
+
+
+
+
+
+ */
