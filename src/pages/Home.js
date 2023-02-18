@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+import Button from '@mui/material/Button';
 
 function Home() {
   return (
@@ -7,9 +8,18 @@ function Home() {
       {/* Navigation bar */}
       <nav className='navBar'>
 
-        <p className="about">About</p>
-        <p className="signup">Account</p>
-        <p className="contact">Contact</p>
+        <p className="about"></p>
+        <Button variant="outlined" href="#outlined-buttons">
+        About
+        </Button>
+        
+        <Button variant="outlined" href="#outlined-buttons">
+        Account
+        </Button>
+
+        <Button variant="outlined" href="#outlined-buttons">
+        Contact
+        </Button>
       </nav>
 
       {/* Page header */}
@@ -41,15 +51,9 @@ function Home() {
               <button>Services Offered</button>
             </div>
             </div>
-
           </div>
-
-          {/* Call-to-action buttons */}
-
         </section>
       </section>
-
-      {/* Rest of the page content goes here */}
     </div>
   );
 }

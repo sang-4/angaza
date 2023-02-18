@@ -7,8 +7,7 @@
 .home{
     width: 100%;
     height: 100vh;
-    /* background: linear-gradient(to top, rgba(172, 166, 166, 0.5)50%, rgba(0,0,0,0.5)50%) */
-    background: grey;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(./nik-shuliahin-BuNWp1bL0nc-unsplash.jpg)
 }
 
 .navBar{
@@ -70,7 +69,7 @@
     font-weight: 700;
     font-size: 40px;
     line-height: 55px;
-    text-align: justify;
+    /* text-align: justify; */
     color: #FFFFFF;
 
 
